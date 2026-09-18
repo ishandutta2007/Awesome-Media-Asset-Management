@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Media-Asset-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Media-Asset-Management?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Media-Asset-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Media-Asset-Management?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Media-Asset-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Media-Asset-Management?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Media-Asset-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -46,7 +46,7 @@ Below is a comparative matrix of leading hosted Media Asset Management (MAM) pla
 
 Self-hosted and open-source media asset management software ranked by GitHub community stargazers (descending).
 
-| 📦 Repository & Project | ⭐ GitHub Star Count | 📜 License | 🛠️ Tech Stack | 🎯 Core Focus & Description |
+| 📦 Repository & Project | ⭐ GitHub Stars_Count | 📜 License | 🛠️ Tech Stack | 🎯 Core Focus & Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Immich](https://immich.app)** | [<img src="https://img.shields.io/github/stars/immich-app/immich?style=social&color=white" alt="Immich Stars" />](https://github.com/immich-app/immich/stargazers) | AGPL-3.0 | TypeScript, Dart, Svelte | High-performance self-hosted photo & video management solution with facial recognition, mobile backup, and vector search. |
 | **[PhotoPrism](https://photoprism.app)** | [<img src="https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white" alt="PhotoPrism Stars" />](https://github.com/photoprism/photoprism/stargazers) | AGPL-3.0 | Go, Vue.js, TensorFlow | AI-powered photo and video asset management powered by Go and TensorFlow. Deep facial indexing and automated classification. |
